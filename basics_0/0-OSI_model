@@ -1,2 +1,4 @@
-2
-2
+#!/usr/bin/env bash
+# Answer to task 0: OSI Model questions
+echo "2"
+echo "2"
